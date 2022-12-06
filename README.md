@@ -4,8 +4,12 @@ This project is done for the NUS Computing for Voluntary Welfare Organisations (
 
 This assignment includes building a web forum from scratch.
 
-Tech Stacks Used:
-- React
+## Tech Stacks Used:
+- React [React Logo](assets/ReactLogo.png)
 - Typescript
 - Ruby on Rails
 - PostgreSQL
+
+## Deployment
+
+This section will be updated when ready.
